@@ -1,5 +1,7 @@
 #! /usr/bin/env python   
-# coding=utf-8   
+# coding=utf-8 
+# @author: Red(mail:it_red@sina.com)  
+# @version: 1.0
 '''发送邮件'''
 import smtplib
 from email.mime.text import MIMEText
