@@ -3,7 +3,7 @@
 # @author: Red
 import base64
 
-'''base63加密'''
+'''base64加密'''
 def getEncodeStr(str):
     return base64.encodestring(str)
 
