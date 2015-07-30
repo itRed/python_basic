@@ -24,5 +24,5 @@ def get_ip():
     return myaddr,'==',myname
 
 if __name__ == '__main__':
-#   print get_mac_address()
+    print get_mac_address()
     print get_ip()
